@@ -30,8 +30,8 @@ Built with **Python**, **python-telegram-bot**, and **PostgreSQL
 ## 🚀 Installation
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/CheffCorleOne/NU_acousticnigtbot.git
+cd NU_acousticnigtbot
 python3 -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
